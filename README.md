@@ -1,4 +1,7 @@
-## Hi there 👋
+![adi](img/A1.png)
+
+# Hi there 👋
+I'm a developer and designer passionate about building innovative digital solutions with great user experience.
 
 <!--
 **adigunanugrohoh3-design/adigunanugrohoh3-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🔭 I’m currently working on AT-CenterLive
-![adi](img/adi.png)
